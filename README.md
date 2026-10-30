@@ -1,4 +1,4 @@
-# Hi there, I'm Affan Nawab! 👋
+# Hi there, I'm Mohammed AffanUddin! 👋
 
 ### 💻 Computer Science Engineering Graduate | Aspiring Full Stack Developer
 
