@@ -85,8 +85,8 @@ To grow as a Full Stack Developer by strengthening my technical foundation, gain
 
 I'm always interested in connecting with fellow developers, learning from the developer community, and exploring new opportunities.
 
-- 💼 LinkedIn: [Add your LinkedIn Profile URL](https://www.linkedin.com/)
-- 🐙 GitHub: [Add your GitHub Profile URL](https://github.com/)
+- 💼 LinkedIn: ([https://www.linkedin.com/](https://www.linkedin.com/in/affan-nawab-7156743a8/))
+- 🐙 GitHub: ([https://github.com/](https://github.com/mdaffanuddin36-dev/)
 
 ---
 
